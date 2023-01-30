@@ -5,11 +5,14 @@ Notes for Code School
 
 Today we made a Github page site
 
-##Who am I?
+## Who am I?
 My name is Alonzo Grant. I'm 24 years old and currently live in ***Memphis,TN***.
+Here is my github portfolio.
+
+[Github][(https://github.com/zograntiv/Reading-Notes/edit/main/README.md).]
 
 
-#Growth Mindset
+# Growth Mindset
 Growth mindset to me is able is having the awareness to want to better yourself.
 **Three** reminders for myself are
 1. Paitence 
