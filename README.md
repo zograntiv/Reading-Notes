@@ -9,7 +9,7 @@ Today we made a Github page site
 My name is Alonzo Grant. I'm 24 years old and currently live in ***Memphis,TN***.
 Here is my github portfolio.
 
-[Github][(https://github.com/zograntiv).]
+[Github][(https://github.com/zograntiv)
 
 
 # Growth Mindset
