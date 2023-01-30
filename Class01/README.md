@@ -1,5 +1,7 @@
 # Class 01
 
+## [Lab 01](Reading-Notes/Class01/Lab01).
+
 ## We learned about Headings from [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 **Paragraphs** are created like this. 
