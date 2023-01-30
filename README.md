@@ -19,6 +19,6 @@ Growth mindset to me is able is having the awareness to want to better yourself.
 2. Persistence
 3. Open-minded
 
-## Class 02
+## [Class 02]
 
 Class 02 Stuff
