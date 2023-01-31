@@ -3,7 +3,9 @@ Notes for Code School
 
 ## [Class 01](/Reading-Notes/Class01/).
 
-## [Class 02](Reading-Notes/Class02/)
+## [Class 02](Reading-Notes/Class02/).
+
+## [Class 03](Reading-Notes/Class03/).
 
 
 Today we made a Github page site
@@ -22,6 +24,6 @@ Growth mindset to me is able is having the awareness to want to better yourself.
 2. Persistence
 3. Open-minded
 
-## [Class 02]
 
-Class 02 Stuff
+
+
