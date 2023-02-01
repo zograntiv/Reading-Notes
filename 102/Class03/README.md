@@ -14,7 +14,7 @@ git remote command: allows you to view the short names of all specified remote h
 
 **git remote** -v: you can view all remote URls next to their corresponding short names.
 
-## Example:
+## Example: 
 
 $ cd example
 
