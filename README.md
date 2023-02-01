@@ -1,11 +1,11 @@
 # Reading-Notes
 Notes for Code School
 
-## [Class 01](/Reading-Notes./Class01/)
+## [Class 01](./Class01/)
 
-## [Class 02](Reading-Notes../Class02/)
+## [Class 02](../Class02/)
 
-## [Class 03](Reading-Notes../Class03/)
+## [Class 03](../Class03/)
 
 
 Today we made a Github page site
