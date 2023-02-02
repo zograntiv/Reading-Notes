@@ -34,7 +34,7 @@ remote3 https://github.com/remote3/example (push)
 
 ## Adding Remotes
 
-To create a new remote Git repository with a short name, use the following format: git remote add shortname url
+To create a new remote Git repository with a short name, use the following format: git remote add shortname url 
 
 ## Things I want to know more about
 
