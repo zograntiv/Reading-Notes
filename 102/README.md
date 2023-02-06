@@ -7,7 +7,7 @@ Notes for Code School
 
 ## [Class 03](./Class03/)
 
-## [Class 04](.Class04/)
+## [Class 04](./Class04/)
 
 
 Today we made a Github page site
