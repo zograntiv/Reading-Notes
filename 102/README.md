@@ -9,6 +9,8 @@ Notes for Code School
 
 ## [Class 04](./Class04/)
 
+## [Class 05](./Class05/)
+
 
 Today we made a Github page site
 
