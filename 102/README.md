@@ -11,6 +11,8 @@ Notes for Code School
 
 ## [Class 05](./Class05/)
 
+## [Class 06](./Class06/)
+
 
 Today we made a Github page site
 
